@@ -1,0 +1,8 @@
+mfaSerial: "arn:aws:iam::259756878813:mfa:XXX@prezzee.com.au"
+accounts:
+  - accountId: "004795745364"
+    accountName: "stage"
+    roleArn: "arn:aws:iam::004795745364:role/allow-full-access-from-other-accounts"
+    regions:
+      - "ap-southeast-2"
+      - "us-west-2"
